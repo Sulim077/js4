@@ -30,14 +30,14 @@ for (const product in products) {
 console.log(categoryCount);
 
 const cars = {
-  Mercedes: { color: "silver", country: "Germany", year: 2021 },
-  Lexus: { color: "red", country: "Japan", year: 2024 },
+  Mercedes: { color: "silver", country: "Germany", year: 2005 },
+  Lexus: { color: "red", country: "Japan", year: 2014 },
   Honda: { color: "blue", country: "Japan", year: 2017 },
-  BMW: { color: "white", country: "Germany", year: 2022 },
-  Ford: { color: "black", country: "USA", year: 2015 },
-  Audi: { color: "gray", country: "Germany", year: 2016 },
-  Hyundai: { color: "green", country: "South Korea", year: 2023 },
-  Kia: { color: "yellow", country: "South Korea", year: 2019 },
+  BMW: { color: "white", country: "Germany", year: 2012 },
+  Ford: { color: "black", country: "USA", year: 2007 },
+  Audi: { color: "gray", country: "Germany", year: 2009 },
+  Hyundai: { color: "green", country: "South Korea", year: 2013 },
+  Kia: { color: "yellow", country: "South Korea", year: 2011 },
   Volvo: { color: "brown", country: "Sweden", year: 2025 },
   Chevrolet: { color: "white", country: "USA", year: 2014 },
 };
